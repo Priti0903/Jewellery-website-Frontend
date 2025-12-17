@@ -4,7 +4,7 @@
 
 ## 🌟 Live Demo
 
-👉 *(Add your live demo link here if deployed via GitHub Pages or Netlify)*
+👉 *https://jewellery-website-frontend-eta.vercel.app/*
 
 
 ---
